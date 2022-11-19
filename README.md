@@ -1,2 +1,2 @@
-# SupremeStore
+# Supreme Store
 In this project I created a virtual store of a clothing brand called Supreme, where the page contained in the Index a browser bar, through it, you can go to sections of the store, as well as, description of the brand, materials that were used for the creation of clothing and where the physical stores were located, the gallery with various articles of the brand, another with references, address and contacts, and finally, the multimedia, which contained videos of the brand and various exclusive items.
