@@ -1,0 +1,52 @@
+ /* Esta es mi hoja de estilo denominada instrumentosumativo.css */
+
+ /*Aqui se define el estilo para los titulos */
+ .titulos
+ {
+ 	font-family: arial;
+ 	font-size: 26px;
+ 	color: red;
+ 	text-align: center;
+ 	text-decoration: bold;
+ }
+
+ /*Aqui se define el estilo para los subtitulos*/
+ .subtitulos
+ {
+ 	font-family: verdana;
+ 	font-size: 20px;
+ 	color: blue;
+ 	text-align: center;
+ 	text-decoration: underline;
+ }
+
+ /*Aqui se define el estilo para el texto normal*/
+ .textonormal
+ {
+ 	font-size: 14px;
+ 	color: black;
+ }
+ 
+ /*Aqui se define el estilo para el texto a la izquierda*/
+ .textoizquierda
+ {
+ 	font-size: 14px;
+ 	color: green;
+ 	text-align: left;
+ }
+
+ /*Aqui se define el estilo para el texto a la derecha*/
+ .textoderecha
+ {
+ 	font-size: 14px;
+ 	color: blue;
+ 	text-align: right;
+ }
+
+ /*Aqui se define el estilo para el texto centrado*/
+ .textocentrado
+ {
+ 	font-size: 14px;
+ 	color: orange;
+ 	text-align: center;
+ }
